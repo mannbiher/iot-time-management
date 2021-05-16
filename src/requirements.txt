@@ -1,0 +1,7 @@
+scapy[basic]
+awsiotsdk
+cachetools
+tldextract
+requests
+pytz
+certifi==2020.11.8 

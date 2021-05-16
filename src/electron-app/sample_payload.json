@@ -1,0 +1,20 @@
+{
+    "user_name": "mannbiher",
+    "num_solved": 398,
+    "num_total": 1684,
+    "ac_easy": 132,
+    "ac_medium": 227,
+    "ac_hard": 39,
+    "frequency_high": 2.0,
+    "frequency_mid": 1.0,
+    "category_slug": "algorithms",
+    "problems": [
+        {
+            "average-salary-excluding-the-minimum-and-maximum-salary": 1584
+        },
+        {
+            "isomorphic-strings": 205
+        }
+    ],
+    "todayCount": 1
+}

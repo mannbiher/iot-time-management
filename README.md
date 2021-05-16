@@ -1,4 +1,5 @@
-# Procastination Tracker and Goal Reminder
+# Procrastination Tracker and Goal Reminder
+
 *Maneesh Kumar Singh (mksingh4@illinois.edu)*
 
 This is source code repository for my final project for UIUC graduate course
